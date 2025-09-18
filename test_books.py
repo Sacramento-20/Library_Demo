@@ -1,3 +1,9 @@
+# Arquivo de testes para a classe Biblioteca
+# Este arquivo contém testes automatizados que verificam o funcionamento
+# correto das funcionalidades da biblioteca, incluindo:
+# - Adição de catálogos e livros individuais
+# - Listagem de livros
+# - Busca de livros por título
 import pytest
 from books import Biblioteca
 
